@@ -1,1 +1,21 @@
+{
+  "gallery": [
+    { "id": 1, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp", "parrafo": "Lorem ipsum" },
+    { "id": 2, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp2", "parrafo": "Lorem ipsum2" },
+    { "id": 3, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum3" },
+    { "id": 4, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum4" },
+    { "id": 5, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum5" },
+    { "id": 6, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum6" },
+    { "id": 7, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum7" },
+    { "id": 8, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum8" }
+    
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
 
