@@ -1,41 +1,41 @@
 {
-  "gallery": [
-    { "id": 1, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp", "parrafo": "Lorem ipsum" },
-    { "id": 2, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp2", "parrafo": "Lorem ipsum2" },
-    { "id": 3, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum3" },
-    { "id": 4, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum4" },
-    { "id": 5, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum5" },
-    { "id": 6, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum6" },
-    { "id": 7, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum7" },
-    { "id": 8, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum8" }
-  ],
-  "news": [
-    {"id":1, "url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Vivamus lacinia odio ut magnis dis parturient", "subtitulo2": "Hair Color", "parrafo": "28 March 2017","parrafo2": "9:00 AM","color": "blue"},
-    {"id":2, "url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Vivamus lacinia odio ut magnis dis parturient", "subtitulo2": "Body Massage", "parrafo": "28 March 2017","parrafo2": "9:00 AM","color": "green"},
-    {"id":3,"url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Vivamus lacinia odio ut magnis dis parturient", "subtitulo2": "Natural", "parrafo": "28 March 2017","parrafo2": "9:00 AM","color": "pink"},
-    {"id":4,"url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Vivamus lacinia odio ut magnis dis parturient", "subtitulo2": "Hair Color", "parrafo": "28 March 2017","parrafo2": "9:00 AM","color": "red"},
-  ],
-  "ourTeam": [
-    {"id":1, "url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Hair Style", "subtitulo2": "Kelly Ken", "parrafo": "delectus reiciendis maiores alias reiciendis maiores alias"},
-    {"id":2, "url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Make Over", "subtitulo2": "Lois Lana", "parrafo": "delectus reiciendis maiores alias reiciendis maiores alias"},
-    {"id":3, "url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Hair Color", "subtitulo2": "Queen Will", "parrafo": "delectus reiciendis maiores alias reiciendis maiores alias"},
-    {"id":4, "url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Hair Cut", "subtitulo2": "willy son", "parrafo": "delectus reiciendis maiores alias reiciendis maiores alias"},
-  ],
-  "priceTable": [
-    {"id":1,"urlImagen": "https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg","subtitulo": "SLIVER","subtitulo2": "54$","parrafo": "Hair color","parrafo2": "Hair cut","parrafo3": "Make over","parrafo4": "Spa Therapy","parrafo5": "Old Massage","parrafo6": "Foot Massage","color": "orange",},
-    {"id":2,"urlImagen": "https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg","subtitulo": "GOLD","subtitulo2": "52$","parrafo": "Hair color","parrafo2": "Hair cut","parrafo3": "Make over","parrafo4": "Spa Therapy","parrafo5": "Old Massage","parrafo6": "Foot Massage","color": "purple",},
-    {"id":3,"urlImagen": "https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg"  ,"subtitulo": "DIAMOND","subtitulo2": "22$","parrafo": "Hair color","parrafo2": "Hair cut","parrafo3": "Make over","parrafo4": "Spa Therapy","parrafo5": "Old Massage","parrafo6": "Foot Massage","color": "pink",}
-  ],
-  "servicios": [
-    {"id":1,"subtitulo": "Oil Massage","parrafo": "Vivamus lacinia odio ut delectus reiciendis maiores alias consequatur","color": "white",},
-    {"id":2,"subtitulo": "Skin Scrub","parrafo": "Vivamus lacinia odio ut delectus reiciendis maiores alias consequatur","color": "pink",},
-    {"id":3,"subtitulo": "Body Wrap","parrafo": "Vivamus lacinia odio ut delectus reiciendis maiores alias consequatur","color": "white",},
-  ],
-  "serviciosIcon": [
-    {"id":1,"subtitulo": "Oil Massage","parrafo": "delectus reiciendis maiores alias consequatur aut.maiores alias consequatur","color": "pink","icono": ""},
-    {"id":2,"subtitulo": "Skin Scrub","parrafo": "delectus reiciendis maiores alias consequatur aut.maiores alias consequatur","color": "lightblue","icono": ""},
-    {"id":3,"subtitulo": "Body Wrap","parrafo": "delectus reiciendis maiores alias consequatur aut.maiores alias consequatur","color": "orange","icono": ""},
-    {"id":4,"subtitulo": "Body Wrap","parrafo": "delectus reiciendis maiores alias consequatur aut.maiores alias consequatur","color": "lightgreen","icono": ""},
-  ],
+    "gallery": [
+      { "id": 1, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp", "parrafo": "Lorem ipsum" },
+      { "id": 2, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp2", "parrafo": "Lorem ipsum2" },
+      { "id": 3, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum3" },
+      { "id": 4, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum4" },
+      { "id": 5, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum5" },
+      { "id": 6, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum6" },
+      { "id": 7, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum7" },
+      { "id": 8, "url":"https://barberbootcamp.net/resources/9d43a31e-f1bc-4879-a6f7-a32a786e3a2c.jpg.opt291x192o0%2C0s291x192.jpg", "subtitulo": "MakeUp3", "parrafo": "Lorem ipsum8" }
+    ],
+    "news": [
+      {"id":1, "url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Vivamus lacinia odio ut magnis dis parturient", "subtitulo2": "Hair Color", "parrafo": "28 March 2017","parrafo2": "9:00 AM","color": "blue"},
+      {"id":2, "url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Vivamus lacinia odio ut magnis dis parturient", "subtitulo2": "Body Massage", "parrafo": "28 March 2017","parrafo2": "9:00 AM","color": "green"},
+      {"id":3,"url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Vivamus lacinia odio ut magnis dis parturient", "subtitulo2": "Natural", "parrafo": "28 March 2017","parrafo2": "9:00 AM","color": "pink"},
+      {"id":4,"url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Vivamus lacinia odio ut magnis dis parturient", "subtitulo2": "Hair Color", "parrafo": "28 March 2017","parrafo2": "9:00 AM","color": "red"}
+    ],
+    "ourTeam": [
+      {"id":1, "url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Hair Style", "subtitulo2": "Kelly Ken", "parrafo": "delectus reiciendis maiores alias reiciendis maiores alias"},
+      {"id":2, "url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Make Over", "subtitulo2": "Lois Lana", "parrafo": "delectus reiciendis maiores alias reiciendis maiores alias"},
+      {"id":3, "url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Hair Color", "subtitulo2": "Queen Will", "parrafo": "delectus reiciendis maiores alias reiciendis maiores alias"},
+      {"id":4, "url":"https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg", "subtitulo": "Hair Cut", "subtitulo2": "willy son", "parrafo": "delectus reiciendis maiores alias reiciendis maiores alias"}
+    ],
+    "priceTable": [
+      {"id":1,"urlImagen": "https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg","subtitulo": "SLIVER","subtitulo2": "54$","parrafo": "Hair color","parrafo2": "Hair cut","parrafo3": "Make over","parrafo4": "Spa Therapy","parrafo5": "Old Massage","parrafo6": "Foot Massage","color": "orange"},
+      {"id":2,"urlImagen": "https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg","subtitulo": "GOLD","subtitulo2": "52$","parrafo": "Hair color","parrafo2": "Hair cut","parrafo3": "Make over","parrafo4": "Spa Therapy","parrafo5": "Old Massage","parrafo6": "Foot Massage","color": "purple"},
+      {"id":3,"urlImagen": "https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg"  ,"subtitulo": "DIAMOND","subtitulo2": "22$","parrafo": "Hair color","parrafo2": "Hair cut","parrafo3": "Make over","parrafo4": "Spa Therapy","parrafo5": "Old Massage","parrafo6": "Foot Massage","color": "pink"}
+    ],
+    "servicios": [
+      {"id":1,"subtitulo": "Oil Massage","parrafo": "Vivamus lacinia odio ut delectus reiciendis maiores alias consequatur","color": "white"},
+      {"id":2,"subtitulo": "Skin Scrub","parrafo": "Vivamus lacinia odio ut delectus reiciendis maiores alias consequatur","color": "pink"},
+      {"id":3,"subtitulo": "Body Wrap","parrafo": "Vivamus lacinia odio ut delectus reiciendis maiores alias consequatur","color": "white"}
+    ],
+    "serviciosIcon": [
+      {"id":1,"subtitulo": "Oil Massage","parrafo": "delectus reiciendis maiores alias consequatur aut.maiores alias consequatur","color": "pink","icono": ""},
+      {"id":2,"subtitulo": "Skin Scrub","parrafo": "delectus reiciendis maiores alias consequatur aut.maiores alias consequatur","color": "lightblue","icono": ""},
+      {"id":3,"subtitulo": "Body Wrap","parrafo": "delectus reiciendis maiores alias consequatur aut.maiores alias consequatur","color": "orange","icono": ""},
+      {"id":4,"subtitulo": "Body Wrap","parrafo": "delectus reiciendis maiores alias consequatur aut.maiores alias consequatur","color": "lightgreen","icono": ""}
+    ]
 }
 
