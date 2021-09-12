@@ -26,11 +26,6 @@
       {"id":2,"urlImagen": "https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg","subtitulo": "GOLD","subtitulo2": "52$","parrafo": "Hair color","parrafo2": "Hair cut","parrafo3": "Make over","parrafo4": "Spa Therapy","parrafo5": "Old Massage","parrafo6": "Foot Massage","color": "purple"},
       {"id":3,"urlImagen": "https://i.pinimg.com/474x/6e/cd/60/6ecd6037da19069996a7ef46a332cc75.jpg"  ,"subtitulo": "DIAMOND","subtitulo2": "22$","parrafo": "Hair color","parrafo2": "Hair cut","parrafo3": "Make over","parrafo4": "Spa Therapy","parrafo5": "Old Massage","parrafo6": "Foot Massage","color": "pink"}
     ],
-    "servicios": [
-      {"id":1,"subtitulo": "Oil Massage","parrafo": "Vivamus lacinia odio ut delectus reiciendis maiores alias consequatur","color": "white"},
-      {"id":2,"subtitulo": "Skin Scrub","parrafo": "Vivamus lacinia odio ut delectus reiciendis maiores alias consequatur","color": "pink"},
-      {"id":3,"subtitulo": "Body Wrap","parrafo": "Vivamus lacinia odio ut delectus reiciendis maiores alias consequatur","color": "white"}
-    ],
     "serviciosIcon": [
       {"id":1,"subtitulo": "Oil Massage","parrafo": "delectus reiciendis maiores alias consequatur aut.maiores alias consequatur","color": "pink","icono": ""},
       {"id":2,"subtitulo": "Skin Scrub","parrafo": "delectus reiciendis maiores alias consequatur aut.maiores alias consequatur","color": "lightblue","icono": ""},
